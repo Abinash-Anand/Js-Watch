@@ -1,0 +1,20 @@
+.jumbotron {
+  padding: 4% 20%;
+  border: solid #c2ffd9 15px;
+}
+
+.time {
+  font-size: 40px;
+  color: turquoise;
+}
+
+.watch_box {
+  border: solid turquoise 5px;
+  text-align: center;
+  border-radius: 15px;
+  background-color: #f3f1f5;
+}
+
+.display-4 {
+  text-decoration-color: turquoise;
+}
